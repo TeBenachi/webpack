@@ -1,22 +1,12 @@
 
-Webpack [Asset Management](https://webpack.js.org/guides/asset-management/)
+Webpack [Development](https://webpack.js.org/guides/development/)
 
-# webpack
+# webpack Development
 
-##### Loading CSS and images
-
-```
-npm install --save-dev style-loader css-loader file-loader
-```
-
-##### Loading Data
+##### To start web server 
 
 ```
-npm install --save-dev file-loader
+npm start 
 ```
 
-#####  Run a new build
-
-```
-npm run build
-```
+Then go to http://localhost:3000
